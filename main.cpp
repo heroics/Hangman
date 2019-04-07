@@ -120,7 +120,7 @@ int main(int argc, char **argv)
         cout << "\nYou have won the game!";
     }
 
-    // Confirm 
+    // Confirm
     cout << "\nThe word was" << currentPlayerString << endl;
 
     return 0;
